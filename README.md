@@ -12,6 +12,8 @@
 
 <img src="https://i.imgur.com/6j9j0JW.png?1" alt="ecoleta">
 
+### You can view the remaining images in my [Figma](https://www.figma.com/file/qgUHVXNZ8xvXpVXfrcm8v6/Rafael-Prado---Proffy_Web?node-id=0%3A1)
+
 ## About Proffy
 
 **Proffy** is a plataform thats the students can find a particular teacher for the high school degree.
