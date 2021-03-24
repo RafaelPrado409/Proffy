@@ -18,7 +18,6 @@
 - Each 'proffy' has its own price.
 - The app has an area for the new teachers to register with the name, subject, whatsapp, bio and choose the day and time when they can give your classes. In mobile version, this function don't exist.
 - Proffy is responsive to any display.
-- Proffy use that [API](https://github.com/RafaelPrado409/NLW_Proffy_Backend) made up in NodeJS, to get the information.
 
 ## How do I use it?
 
