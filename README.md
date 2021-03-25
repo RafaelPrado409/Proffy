@@ -26,8 +26,6 @@
 - The app has an area for the new teachers to register with the name, subject, whatsapp, bio and choose the day and time when they can give your classes. In mobile version, this function don't exist.
 - Proffy is responsive to any display.
 
-In the mobile app you can check where is the nearest point to throw your residues.
-
 ## 💻 Prerequisites
 
 Before start, check if you attend the following requisites:
