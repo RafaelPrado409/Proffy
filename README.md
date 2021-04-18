@@ -13,13 +13,13 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB)
 
-<img src="https://i.imgur.com/6j9j0JW.png?1" alt="ecoleta">
+<img src="https://i.imgur.com/6j9j0JW.png?1" alt="proffy">
 
 ### You can view the remaining images in my [Figma](https://www.figma.com/file/qgUHVXNZ8xvXpVXfrcm8v6/Rafael-Prado---Proffy_Web?node-id=0%3A1)
 
 ## About Proffy
 
-**Proffy** is a plataform thats the students can find a particular teacher for the high school degree.
+**Proffy** is a platform thats the students can find a particular teacher for the high school degree.
 
 - The 'proffys' can be find for a filter that is define for the student and contain the subject, the day and the time, thats is compatible with whats the student is looking for.
 - Each 'proffy' has its own price.
@@ -75,7 +75,7 @@ git clone git@github.com:RafaelPrado409/Proffy.git
 cd Proffy
 ```
 ```
-# Acess Frontend folder
+# Acess Backend folder
 cd Backend
 ```
 ```
@@ -99,7 +99,7 @@ git clone git@github.com:RafaelPrado409/Proffy.git
 cd Ecoleta
 ```
 ```
-# Acess Frontend folder
+# Acess Mobile folder
 cd Mobile
 ```
 ```
